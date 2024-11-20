@@ -1,9 +1,9 @@
 # GrowTech
 # An Automated Irrigation System for Home Gardening
-
+## About :
+Developed an automated irrigation system that shows the soil moisture informations, automatically on/off motor according to thresholds,show air humidity infomation around the plant ..all shown in real-time so that plant grows with 24/7 observation and care...
 ## Problem statement :
 The current methods of moisture management are associated with imprecise measurements, inconsistent plant hydration, and additional labor requirements. This project is to develop an automated robotic system capable of autonomously providing irrigation to plants, monitoring their health, and facilitating their growth with minimal human intervention.
-
 ## Objective: 
 1. Enhanced plant development and growth.
 2. Reduce manual intervention.
